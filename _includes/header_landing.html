@@ -1,0 +1,43 @@
+<!-- Header -->
+<div id="header-wrapper">
+	<div id="header">
+
+		<h1>
+			<a href="index.html">
+				<img src="/images/logo.png?v1" />
+				<br/>
+			</a>
+		</h1>
+
+		<!-- Nav -->
+		<nav id="nav">
+			<ul>
+				<li {% if page.url == "/" %}class="current"{% endif %}><a href="/">Home</a></li>
+				<li {% if page.url == "/sobre.html" %}class="current"{% endif %}><a href="{{ site.baseurl }}/sobre.html">Sobre</a></li>
+				<!-- <li {% if page.url == "/areligiao.html" %}class="current"{% endif %}><a href="{{ site.baseurl }}/religiao.html">A Religião</a></li> -->
+				<li {% if page.url == "/fotos.html" %}class="current"{% endif %}><a href="https://www.facebook.com/pg/tendacaboclopenabrancajlle/photos/?ref=page_internal" target="_blank">Fotos</a></li>
+				<li {% if page.url == "/blog" %}class="current"{% endif %}><a href="{{ site.baseurl }}/blog">Blog</a></li>
+				<li>
+					<a href="">Links</a>
+					<ul>
+						<li><a href="https://www.youtube.com/user/UMBANDBOA" target="_blank">Umband'boa</a></li>
+						<li><a href="https://www.youtube.com/user/norbertopeixoto7" target="_blank">Norberto Peixoto</a></li>
+						<li><a href="https://www.youtube.com/channel/UCfok9n9DbDmoYxUEorIJxOQ" target="_blank">Devaneios de Umbanda</a></li>
+						<li><a href="http://umbandaeucurto.com/" target="_blank">Umbanda eu curto!</a></li>
+						<li><a href="https://www.youtube.com/channel/UCdbnv2WXxX2bHwpx5e-45GQ" target="_blank">Adérito Simões</a></li>
+						<li><a href="https://www.youtube.com/user/alancasadelei" target="_blank">Alan Barbieri</a></li>
+					</ul>
+				</li>
+				<li {% if page.url == "/localizacao.html" %}class="current"{% endif %}><a href="{{ site.baseurl }}/localizacao.html">Localização</a></li>
+			</ul>
+		</nav>
+
+		<!-- Banner -->
+			<section id="banner">
+				<header>
+					<h2>Deus tem estradas, onde o mundo não tem caminhos.</h2>
+					<p>Espírito Meimei</p>
+				</header>
+			</section>
+	</div>
+</div>
