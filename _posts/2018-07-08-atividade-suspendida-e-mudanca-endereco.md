@@ -1,6 +1,6 @@
 ---
 title: Atividade suspendida em endereço atual
-featured: http://3.bp.blogspot.com/-sT1dj7yyikY/TZvnvNeFtTI/AAAAAAAAB6E/K2BEByMCzhY/s400/caboclopenabranca.jpg
+featured: https://i1.wp.com/outraspalavras.net/wp-content/uploads/2017/11/171127-Umbanda1.jpg
 layout: post
 ---
 
