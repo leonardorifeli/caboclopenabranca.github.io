@@ -25,7 +25,7 @@ A Tenda do Caboclo Pena Branca iniciou em maio de 2017, em Joinville, com um gru
 
 Clique no botão abaixo e leia mais.
 
-{% include button.html text="Leia mais" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.ziphttps://medium.com/tenda-de-umbanda-caboclo-pena-branca/sobre-a-tradi%C3%A7%C3%A3o-da-nossa-tenda-cce2a213d3d3" color="#009c44" %}
+{% include button.html text="Leia mais" link="https://medium.com/tenda-de-umbanda-caboclo-pena-branca/sobre-a-tradi%C3%A7%C3%A3o-da-nossa-tenda-cce2a213d3d3" color="#009c44" %}
 
 # Introdução - TCPB
 
