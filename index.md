@@ -27,20 +27,9 @@ Clique no botão abaixo e leia mais.
 
 {% include button.html text="Leia mais" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.ziphttps://medium.com/tenda-de-umbanda-caboclo-pena-branca/sobre-a-tradi%C3%A7%C3%A3o-da-nossa-tenda-cce2a213d3d3" color="#009c44" %}
 
-# Calendário
+# Introdução - TCPB
 
-**NOSSAS ATIVIDADES:**
-
-- Giras quinzenais aos sábados, das 19h às 23h30min;
-- Giras quinzenais às 6as-feira, das 20h às 23h (gira fechada).
-
-**GIRAS NA SEXTA-FEIRA:**
-
-Iniciamos os trabalhos com uma palestra e/ou diálogo com assuntos diversos no campo do mediunismo de Umbanda , auto-conhecimento, reforma íntima, etc. Depois, fazemos a abertura da gira com a linha de trabalho determinada. É uma gira fechada para o corpo mediúnico.
-
-**GIRAS NO SÁBADO:**
-
-Iniciamos os trabalhos com uma mini palestra sobre Umbanda, auto-conhecimento, reforma íntima, tabus e informações gerais. Depois, fazemos a abertura da gira com a linha de trabalho determinada (geralmente com uma linha de trabalho de direita e, após o intervalo, seguimos com a Gira de esquerda). A abertura dos portões acontece por volta das **18h30min e a distribuição de senhas é feita por ordem de chegada**.
+{% include video.html id="uCuT5YC0-4g" title="Siteleaf tutorial video" %}
 
 # Nossos Pilares
 
@@ -68,4 +57,6 @@ A Umbanda é uma religião cristã que só trabalha para a caridade:
 - Não trazemos seu marido/mulher de volta;
 - Não interferimos no livre arbítrio de ninguém, mas podemos mudar a sua vida e fazer de você uma pessoa melhor.
 
-{% include video.html id="uCuT5YC0-4g" title="Siteleaf tutorial video" %}
+{% include figure.html image="/assets/homenagem.jpg" caption="Ritual na praia em Florianópolis - TCPB - Terreiro de Umbanda em Joinville SC" alt="Ritual na praia em Florianópolis" %}
+
+Venha nos conhecer! Você será muito bem-vindo(a).

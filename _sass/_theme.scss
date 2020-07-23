@@ -91,10 +91,10 @@ body {
 }
 
 .footer {
-  background: $headingColour;
-  color: $captionColour;
+  background: $accentColour;
+  color: #FFF!important;
   a {
-    color: $captionColour;
+    color: #FFF;
     &:hover {
       color: $backgroundColour;
     }
@@ -104,6 +104,7 @@ body {
   }
   .small {
     padding-top: 0;
+    color:#FFF!important;
   }
 }
 
