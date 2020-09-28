@@ -111,6 +111,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Página Inicial
   url: /
+- title: Sobre TCPB
+  url: /sobre-tcpb/
 - title: Calendário
   url: /calendario/
 - title: Localização
