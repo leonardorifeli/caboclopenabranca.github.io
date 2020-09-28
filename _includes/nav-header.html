@@ -10,7 +10,10 @@
       {% endif %}
 
       <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
-        <a href="{{ url }}" target="{% if item.title == 'Blog'%}_blank{% endif %}">{{ item.title }}</a>
+        <a href="{{ url }}" target="{% if item.title == 'Blog'%}_blank{% endif %}">{{ item.title }}</a> 
+        {% if item.title != "Blog" %}
+        |
+        {% endif %}
       </li>
     {% endfor %}
   </ul>

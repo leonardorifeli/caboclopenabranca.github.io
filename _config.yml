@@ -85,7 +85,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: pt-BR # Set the site language
 title: "Tenda do Caboclo Pena Branca" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: Somos um Templo, um Terreiro de Umbanda, não fazemos nenhum tipo de trabalho em detrimento de outras pessoas ou ações que envolvam envio de energias negativas, amarrações, demandas, feitiços ou sacrifício de animais. Na Tenda do Caboclo Pena Branca praticamos apenas o bem, seja no atendimento aos irmãos necessitados ou no compartilhamento de conhecimento." # Site description and default description, also used in jekyll-seo-tag
+description: Somos um terreiro de Umbanda, não fazemos nenhum tipo de trabalho em detrimento de outras pessoas ou ações que envolvam envio de energias negativas, amarrações, demandas, feitiços ou sacrifício de animais. Na Tenda do Caboclo Pena Branca praticamos apenas o bem, seja no atendimento aos irmãos necessitados ou no compartilhamento de conhecimento." # Site description and default description, also used in jekyll-seo-tag
 url: "https://caboclopenabranca.org" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/leonardorifeli"
@@ -117,6 +117,8 @@ navigation_header:
   url: /calendario/
 - title: Localização
   url: /localizacao/
+- title: Nosso e-book
+  url: /assets/ebook.pdf
 - title: Blog
   url: https://medium.com/tenda-de-umbanda-caboclo-pena-branca
 
