@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   ## Tenda do Caboclo Pena Branca
-  A Umbanda é uma religião 100% brasileira, e como religião só pode e deve fazer o bem.
+  A Umbanda é uma religião afrobrasileira, e como religião só pode e deve aplicar o bem na vida das pessoas.
 feature_image: "/assets/header.jpg"
 layout: page
 aside: true
