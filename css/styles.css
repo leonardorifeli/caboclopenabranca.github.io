@@ -7419,7 +7419,7 @@ textarea.form-control-lg {
 }
 
 .bg-dark {
-  background-color: #212529 !important;
+  background-color: #009c44 !important;
 }
 
 .bg-body {
@@ -10987,7 +10987,7 @@ header.masthead h1, header.masthead .h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+  background: rgba(0, 156, 68, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
