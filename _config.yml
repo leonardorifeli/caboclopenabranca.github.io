@@ -83,7 +83,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: pt-BR # Set the site language
-title: "Tenda do Caboclo Pena Branca" # Site name or title, also used in jekyll-seo-tag
+title: "Instituto Culural Umbandista Caboclo Pena Branca" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: Seja bem-vinde ao Instituto Cultural Umbandista Caboclo Pena Branca. Terreiro de Makumba localizado na cidade de Joinville em Santa Catarina. 🙏🏾" # Site description and default description, also used in jekyll-seo-tag
 url: "https://caboclopenabranca.org" # Site url, also used in jekyll-seo-tag
