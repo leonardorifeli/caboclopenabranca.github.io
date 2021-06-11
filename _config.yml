@@ -38,12 +38,12 @@ plugins:
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+jekyll-mentions:  # jekyll-mentions > service used when @replying
 twitter:
-  username: leonardorifeli # jekyll-seo-tag > Owners twitter username
+  username:  # -seo-tag > Owners twitter username
 author: leonardorifeli # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Tenda do Caboclo Pena Branca # jekyll-seo-tag > real name
+  name: Instituto Cultural Umbandista Caboclo Pena Branca # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
       - http://facebook.com/tendadocabcolopenabranca
       - https://www.instagram.com/tendadocaboclopenabranca/
@@ -85,7 +85,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: pt-BR # Set the site language
 title: "Tenda do Caboclo Pena Branca" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: Somos uma tenda de Umbanda, não fazemos nenhum tipo de trabalho em detrimento de outras pessoas ou ações que envolvam envio de energias negativas, amarrações, demandas, feitiços ou sacrifício de animais. Na Tenda do Caboclo Pena Branca praticamos apenas o bem, seja no atendimento aos irmãos necessitados ou no compartilhamento de conhecimento." # Site description and default description, also used in jekyll-seo-tag
+description: Seja bem-vinde ao Instituto Cultural Umbandista Caboclo Pena Branca. Terreiro de Makumba localizado na cidade de Joinville em Santa Catarina. 🙏🏾" # Site description and default description, also used in jekyll-seo-tag
 url: "https://caboclopenabranca.org" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/leonardorifeli"
@@ -119,8 +119,6 @@ navigation_header:
   url: /localizacao/
 - title: E-book TCPB
   url: /assets/ebook.pdf
-- title: Blog
-  url: https://medium.com/tenda-de-umbanda-caboclo-pena-branca
 
 navigation_footer:
 - title: caboclopenbranca.org
@@ -128,8 +126,7 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Facebook: http://facebook.com/tendadocabcolopenabranca
-  Instagram: https://www.instagram.com/tendadocaboclopenabranca/
-  Medium: https://medium.com/tenda-de-umbanda-caboclo-pena-branca
+  Instagram: https://www.instagram.com/tendadocaboclopenabranca
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
